@@ -1,0 +1,12 @@
+add sprite -background-com-blur
+colocar no background da room - 218 512 dimensioes
+vertical tile 
+y = 0.3 -> mover;
+- vai em room;
+- ativa enable viewport;
+- ativa o Clear Viewport background;
+- vai no viewport -> deixa visible;
+- na propriedade da camera deixa -> do tamanho da sprite => nosso caso, w- 288, h 512;
+- em viewPort Properties -> nessa parte você coloca a o tamanho da resolução; 
+- criar camada de layer de transição;
+- cria layer pra o tiro  daí, voce coloca abaixo da do jogador principal
